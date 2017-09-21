@@ -1,0 +1,2 @@
+Calcolare la media dei voti ottenuti da uno studente alla fine dell'anno scolastico
+nelle diverse materie scolastiche
