@@ -1,0 +1,1 @@
+Sito PHP Test per testare il funzionamento delle variabili $GET, $POST e $SERVER

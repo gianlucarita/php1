@@ -1,0 +1,38 @@
+#intestazione {
+width:250px;
+height:30px;
+text-align:center;
+color:white;
+background-color:#000;
+}
+
+#intestazione li {
+display:inline;
+{
+
+#navigazione {
+font-size:14px;
+text-align:left;
+}
+
+#contenuto {
+width:560px;
+float:left;
+}
+
+#piede {
+height:40px;
+background-color:#000;
+color:#ccc;
+text-align:center;
+display:block;
+clear:both !important;
+}
+
+body {
+width:980px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+text-align:justify;
+line-height:1.4em;
+}
